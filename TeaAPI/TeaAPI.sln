@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeaAPI", "TeaAPI.csproj", "{DE9EC339-684B-4E03-BEE5-39B360183ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE9EC339-684B-4E03-BEE5-39B360183ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9EC339-684B-4E03-BEE5-39B360183ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9EC339-684B-4E03-BEE5-39B360183ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9EC339-684B-4E03-BEE5-39B360183ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88F6A608-4034-421B-A79E-9795B73E2040}
+	EndGlobalSection
+EndGlobal
